@@ -48,15 +48,15 @@ The list should be in JSON format. Here an example:
 [{
       "studentId": "01",
       "email": "anne.bonni@web.de",
-      "class": "FbW123",
+      "class": "BER-FbW123",
       "firstName": "Anne",
-      "lastName": "Bonny",
+      "lastName": "Bonny"
 },{
       "studentId": "02",
       "email": "mary.read@gmx.de",
-      "class": "FbW123",
+      "class": "BER-FbW123",
       "firstName": "Mary",
-      "lastName": "Read",
+      "lastName": "Read"
 }]
 ```
 
